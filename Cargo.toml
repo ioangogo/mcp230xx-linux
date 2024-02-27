@@ -1,5 +1,5 @@
 [package]
-name = "mcp230xx"
+name = "mcp230xx-linux"
 version = "0.2.0"
 description = "MCP23008/MCP23017 8/16-Bit I2C I/O Expander with I2C Interface"
 authors = ["Luca Zulian <lucagiuggia@gmail.com>", "Robert Jördens <rj@quartiq.de>", "Norman Krackow <nk@quartiq.de>", "Michael Kamprath <michael@kamprath.net>"]
